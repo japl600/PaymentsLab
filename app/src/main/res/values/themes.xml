@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema del framework: sigue el modo claro/oscuro del sistema. Los colores los pone Compose. -->
+    <style name="Theme.PaymentsLab" parent="android:Theme.DeviceDefault.NoActionBar" />
+</resources>
